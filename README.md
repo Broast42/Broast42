@@ -6,7 +6,7 @@ I love coding and learning about new languages and technologies. I enjoy buildin
 
 HTML | CSS | LESS/SASS | JavaScript | React | Redux | Node | Express | Jest | Python 
 
-Take a look at my [Portfolio](https://www.rjarretttdowd.com)
+Take a look at my [Portfolio](https://www.rjarrettdowd.com/)
 
 Look me up on [Linkedin](https://www.linkedin.com/in/rjarrettdowd/)
 
